@@ -1,7 +1,7 @@
 Superman
 ========
 
-Duck Hunt Dog Konami Code
+Superman Konami Code
 
 This is a variation of the raptoize Konami code. This version has Superman flying across the screen.
 
